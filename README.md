@@ -63,3 +63,9 @@ Hyperparameter Tuning: Grid search optimization to enhance model performance is 
 
 Practical Application: The project tackles a real-world business problem of stock price prediction, making it highly relevant to the financial sector.
 
+
+##  👩‍💻 Author
+Gudepu Rakshitha Reddy
+
+📧 Email: rakshithareddy1985@gmail.com
+
